@@ -1,0 +1,8 @@
+DirectoryIndex index.cgi index.html index.htm
+ErrorDocument 404 http://nullpo.in/
+ErrorDocument 403 http://nullpo.in/
+AddType "text/html; charset=UTF-8" html
+AddType "text/html; charset=UTF-8" cgi
+AddType "text/xml; charset=UTF-8" xml
+AddType "text/html; charset=UTF-8" htm
+AddType text/xml .rdf 

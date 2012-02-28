@@ -1,0 +1,5 @@
+ErrorDocument 404 http://dja.mobi/
+AddType application/xhtml+xml .html
+AddType application/xhtml+xml .cgi
+AddType application/xhtml+xml .xml
+AddType application/xhtml+xml .htm

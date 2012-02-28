@@ -1,0 +1,3 @@
+
+#パスポート（入国許可証・派閥別リスト）
+$p_passport{$f_id}[0],$p_passport{$f_id}[1],$p_passport{$f_id}[2],$p_passport{$f_id}[3],$p_passport{$f_id}[4],

@@ -1,0 +1,15 @@
+body,pre,td,select,input,textarea {font-family : ＭＳ ゴシック;font-size: 9pt;}
+form {margin:0px;}
+.msp {font-family : ＭＳ Ｐゴシック;}
+body {margin:0px;padding:0px;}
+.m_b {margin:0px;padding:0px;}
+table { margin-left:auto;margin-right:auto;table-layout:fixed;text-align:left; }
+
+body {background-color: #000000;color: #ffffff;background-image : url(http://game.kunitori.com/img/ks/bgg/800.jpg);background-attachment: fixed;background-position: 100% 0%;background-repeat: no-repeat;}
+a:hover {color: #FF8C00;}
+a:hover {color: #FF8C00;}
+a:link {color: #ffff55;}
+a:link:visited { color: #ffffcc;}
+
+.fs7 {font-size: 7pt;}
+.fs8 {font-family : ＭＳ Ｐゴシック;font-size: 8pt;}

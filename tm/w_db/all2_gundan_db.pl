@@ -1,0 +1,1 @@
+$gundan_name[1] = '';$gundan_kunino[1] = '0';$gundan_habatuno[1] = '0';$gundan_busyou_suu[1] = '';$gundan_no_all_l[0] = '1';$gundan_kazu_next = '2';$gundan_kazu_max = '1';$gundan_name[0] = '無所属';$gundan_kazu_d = '1';1;

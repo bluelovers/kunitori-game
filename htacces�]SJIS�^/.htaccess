@@ -1,0 +1,2 @@
+DirectoryIndex index.cgi index.html index.htm
+ErrorDocument 404 http://nullpo.in/
