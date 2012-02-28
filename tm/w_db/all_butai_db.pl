@@ -1,0 +1,1 @@
+$butai_name[1] = '';$butai_kunino[1] = '0';$butai_habatuno[1] = '0';$butai_busyou_suu[1] = '';$butai_no_all_l[0] = '1';$butai_kazu_next = '1';$butai_name[0] = '無所属';$butai_kazu_d = '1';1;

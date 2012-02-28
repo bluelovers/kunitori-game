@@ -1,0 +1,13 @@
+body,tr {font-family : ＭＳ ゴシック;font-size: 9pt;}
+form {margin:0px;}
+h1 {margin:0px;}
+.msp {font-family : ＭＳ Ｐゴシック;}
+body {margin:0px;padding:0px;margin-left:auto;margin-right:auto;text-align:center;}
+object {margin:0px;padding:0px;}
+.m_b {margin:0px;padding:0px;margin-left:auto;margin-right:auto;text-align:center;}
+table { margin-left:auto;margin-right:auto;table-layout:fixed;text-align:left; }
+
+body {background-color: #F0E8E0;color: #000000;background-image:url(http://game.kunitori.com/img/ks/01.gif);}
+a:hover {color: #FF8C00;}
+a:link {color: #8B4513;}
+a:link:visited { color: #B8860B;}

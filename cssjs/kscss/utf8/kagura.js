@@ -1,0 +1,20 @@
+cg_youso = new Array();
+cg_str = location.search;
+cg_str = cg_str.substring(1,cg_str.length);
+cg_youso = cg_str.split(',');
+
+cg_w = '';
+cg_h = '';
+cg_op = '';
+cg_url = '';
+cg_bgc = '#ffffff';
+cg_act1 = '';
+cg_act2 = '';
+cg_act3 = '';
+cg_w = cg_youso[0];
+cg_h = cg_youso[1];
+cg_op = cg_youso[2];
+cg_bgc = cg_youso[3];
+cg_act1 = cg_youso[4];
+cg_act2 = cg_youso[5];
+cg_act3 = cg_youso[6];
