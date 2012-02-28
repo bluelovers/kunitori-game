@@ -1,0 +1,1 @@
+$gundan_name[0] = '無所属';$gundan_kazu_d = '0';1;

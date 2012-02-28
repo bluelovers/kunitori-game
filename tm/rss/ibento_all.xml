@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/">
+
+    <channel>
+        <language>ja</language>
+        <title> ○×△鯖/全体ログ</title>
+        <description>国取物語/公式配布版・ ○×△鯖/全体ログ</description>
+        <item>
+            <title>全データの初期化完了。</title> 
+            <link>http://127.0.0.1/kunitori/tm/?.m.=map2?0</link>
+            <dc:date>2006-09-04T22:45+09:00</dc:date>
+            <description>
+<![CDATA[ 
+<strong>全データの初期化完了。</strong>（2006 09/04 22:45）
+ ]]> 
+            </description>
+            <dc:subject></dc:subject>
+            <dc:creator></dc:creator>
+        </item>
+        <item>
+            <title></title> 
+            <link>?1</link>
+            <dc:date></dc:date>
+            <description>
+<![CDATA[ 
+
+ ]]> 
+            </description>
+            <dc:subject></dc:subject>
+            <dc:creator></dc:creator>
+        </item>
+        <item>
+            <title></title> 
+            <link>?2</link>
+            <dc:date></dc:date>
+            <description>
+<![CDATA[ 
+
+ ]]> 
+            </description>
+            <dc:subject></dc:subject>
+            <dc:creator></dc:creator>
+        </item>
+        <item>
+            <title></title> 
+            <link>?3</link>
+            <dc:date></dc:date>
+            <description>
+<![CDATA[ 
+
+ ]]> 
+            </description>
+            <dc:subject></dc:subject>
+            <dc:creator></dc:creator>
+        </item>
+        <item>
+            <title></title> 
+            <link>?4</link>
+            <dc:date></dc:date>
+            <description>
+<![CDATA[ 
+
+ ]]> 
+            </description>
+            <dc:subject></dc:subject>
+            <dc:creator></dc:creator>
+        </item>
+    </channel>
+</rss>

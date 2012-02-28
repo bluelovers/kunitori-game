@@ -1,0 +1,1 @@
+$k_name[1] = '漢  ';$k_kunino[1] = '1';$k_iro_d[1] = '1';$k_busyou_suu[1] = '';$k_seizon_l[0] = '1';$k_name_d[1] = '漢  ';$k_no_all_l[0] = '1';$k_name_d[0] = '無所属';$k_name[0] = '無所属';$kuni_kazu = '1';$kuni_kazu_d = '1';$kuni_kazu_max = '1';1;

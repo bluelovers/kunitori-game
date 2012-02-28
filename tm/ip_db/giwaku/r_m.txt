@@ -1,0 +1,3 @@
+
+#IDごとに疑惑相手を格納
+#$p_id{$f_id},$p_pass{$f_id},$p_name{$f_id},$p_cgno{$f_id},$p_cg_sabano{$f_id},
