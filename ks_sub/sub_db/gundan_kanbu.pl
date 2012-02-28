@@ -1,0 +1,33 @@
+
+$GUNDAN_KANBU[0] = '';
+$GUNDAN_KANBU[1] = '軍団長';
+$GUNDAN_KANBU[2] = '補佐官';
+$GUNDAN_KANBU[3] = '補佐官';
+$GUNDAN_KANBU[4] = '補佐官';
+$GUNDAN_KANBU[5] = '補佐官';
+$GUNDAN_KANBU[6] = '補佐官';
+$GUNDAN_KANBU[7] = '';
+$GUNDAN_KANBU[8] = '';
+$GUNDAN_KANBU[9] = '';
+$GUNDAN_KANBU[10] = '';
+$GUNDAN_KANBU[11] = '';
+$GUNDAN_KANBU[12] = '';
+$GUNDAN_KANBU[13] = '';
+$GUNDAN_KANBU[14] = '';
+$GUNDAN_KANBU[15] = '';
+$GUNDAN_KANBU[16] = '';
+$GUNDAN_KANBU[17] = '';
+$GUNDAN_KANBU[18] = '';
+$GUNDAN_KANBU[19] = '';
+$GUNDAN_KANBU[20] = '';
+$GUNDAN_KANBU[21] = '';
+$GUNDAN_KANBU[22] = '';
+$GUNDAN_KANBU[23] = '';
+$GUNDAN_KANBU[24] = '';
+$GUNDAN_KANBU[25] = '';
+$GUNDAN_KANBU[26] = '';
+$GUNDAN_KANBU[27] = '';
+
+
+
+1;
