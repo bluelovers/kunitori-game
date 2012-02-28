@@ -1,3 +1,3 @@
-$kunitori_ver = 'Online net game-s version1.612';
+$kunitori_ver = 'Online net game-s version1.613';
 
 1;

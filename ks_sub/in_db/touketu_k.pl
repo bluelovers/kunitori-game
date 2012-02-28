@@ -67,7 +67,7 @@ PRI
 
 	&TT_GET;
 	
-    &F_LOCK("touketuk");
+    &F_LOCK;
 
 unlink ("./p_db/p/$f_id.cgi");
 rename ("./p_db/touketu/$f_id.cgi", "./p_db/p/$f_id.cgi");
@@ -108,7 +108,7 @@ print "<form action=\"$COMMAND\" method=\"post\" target=\"_parent\" utn=\"utn\">
 </div></form>";
 	}
 	
-	&UNLOCK_FILE("touketuk"); 
+	&UNLOCK_FILE; 
 	
 		}
 	}elsif($f_id and !-e "./p_db/touketu/$f_id.cgi"){
